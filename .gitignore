@@ -86,3 +86,5 @@ $RECYCLE.BIN/
 *.ipdb
 *.ipch
 .vs/WebSend/v14/.suo
+*.db
+WebSend.VC.VC.opendb

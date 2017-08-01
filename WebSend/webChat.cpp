@@ -126,7 +126,7 @@ int webTest(std::wstring url)
 int main()
 {
 
-	std::wstring url = L"http://172.16.31.244:3000/";
+	std::wstring url = L"http://www.baidu.com";
 
 
 	webTest(url);
