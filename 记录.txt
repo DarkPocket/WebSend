@@ -1,0 +1,5 @@
+
+20170801
+
+利用wininet对服务器发送get post请求
+依赖wHttp.h 实现

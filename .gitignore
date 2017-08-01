@@ -77,3 +77,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.pdb
+*.tlog
+*.log
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.ipch
+.vs/WebSend/v14/.suo
